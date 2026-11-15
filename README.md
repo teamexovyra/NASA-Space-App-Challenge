@@ -9,6 +9,6 @@ TEAM MEMBERS:
 2 [@Burhan-Ul-Haq](https://github.com/Burhan-Ul-Haq)
 3 [@syedfatirzaidi40-ai](https://github.com/syedfatirzaidi40-ai)
 4 [@Phanto-Engineer](https://github.com/Phanto-Engineer)
-5 Muhammad Sufyan 
+5 Muhammad Sufyan Abdul Raheem
 
 
