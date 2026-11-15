@@ -1,1 +1,1 @@
-# NASA-Space-App-Space-Mission-Desogn-Game
+# NASA-Space-App-Space-Mission-Design-Game
